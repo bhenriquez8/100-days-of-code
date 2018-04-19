@@ -31,3 +31,13 @@ want. Tomorrow I'll be sure to have it look better and think of other features t
 
 **Link to work**: [React Notes
 App](https://github.com/bhenriquez8/react-todo/commit/b358c4ff2a92d2382f4f31d881fe3ed6cd407154)
+
+## Day 3: April 18, 2018
+
+**Today's Progress**: Created a Wikipedia search engine SPA using ReactJs. Based on freeCodeCamp's Intermediate level
+projects for their front-end development certificate.
+
+**Thoughts**: Struggled a bit trying to figure out what's the best practice for handling states and passing props to
+components that need to handle API calls. Joined in on a communnity chat of ReactJs coders for assistance.
+
+**Link to work**: [React | WikiSearch](https://github.com/bhenriquez8/wikisearch)
