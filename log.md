@@ -41,3 +41,14 @@ projects for their front-end development certificate.
 components that need to handle API calls. Joined in on a communnity chat of ReactJs coders for assistance.
 
 **Link to work**: [React | WikiSearch](https://github.com/bhenriquez8/wikisearch)
+
+## Day 4: May 22, 2018
+
+**Today's Progress**: Fixed up the Wikipedia Search Engine to use
+Material-UI to make it look cleaner.
+
+**Thoughts**: Had a bit of trouble looking up resources to dynamically map
+each link into a materaial-ui component. Most of what I need to brush up on
+is ES6 syntax and how to implement them properly.
+
+**Link to work**: [Wikipedia Search Engine](https://bhenriquez8.github.io/wikisearch)
