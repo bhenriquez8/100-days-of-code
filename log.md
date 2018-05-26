@@ -52,3 +52,16 @@ each link into a materaial-ui component. Most of what I need to brush up on
 is ES6 syntax and how to implement them properly.
 
 **Link to work**: [Wikipedia Search Engine](https://bhenriquez8.github.io/wikisearch)
+
+## Day 5: May 25, 2018
+
+**Today's Progress**: Created and deployed a personality quiz based on the
+characters of The Office using ReactJs, Material-UI, and learning about
+react-router-dom.
+
+**Thoughts**: Struggled with react-router-dom and having it dynamically
+change the content of the quiz questions. The results displayed is a
+temporary fix that I will come back to when I've learned more on managing
+state.
+
+**Link to work**: [The Office Quiz](https://officequiz-ec917.firebaseapp.com)
